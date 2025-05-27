@@ -54,11 +54,26 @@ print(s.recv(1024).decode())
 ```
 
 ## Output
-![WhatsApp Image 2025-05-02 at 22 51 31_b9f20198](https://github.com/user-attachments/assets/6d49ccbe-5ead-49ef-9c8a-e8950022fcb8)
-CLIENT :
-![image](https://github.com/user-attachments/assets/532d01e4-f4a3-4f6f-b29f-af600ec5ee58)
-SERVER :
-![image](https://github.com/user-attachments/assets/72223b3b-cb13-4c91-9435-16ae061f7272)
+
+![image](https://github.com/user-attachments/assets/d7d84cfa-1992-4926-9732-3923f0037edb)
+
+![image](https://github.com/user-attachments/assets/1fb935f4-fa37-428d-8693-376d16ca125e)
+
+![image](https://github.com/user-attachments/assets/97da94bc-555f-4f1b-b645-9350a89d738d)
+
+![image](https://github.com/user-attachments/assets/5c9a7e2a-f128-4c0c-84f3-c7157fb771e8)
+
+![image](https://github.com/user-attachments/assets/3c8e8516-3306-4945-bbd8-2bac5e52c4b9)
+
+![image](https://github.com/user-attachments/assets/4d56f341-80c1-44bd-b597-fb248d58c5b9)
+
+![image](https://github.com/user-attachments/assets/782720c9-89c7-4b63-aa6d-725c023680ff)
+
+![image](https://github.com/user-attachments/assets/f6472f0e-de96-4249-9af2-04bbaa7ab2c3)
+
+![image](https://github.com/user-attachments/assets/6f0d079d-35fe-4988-b5d0-d8c26320d881)
+
+![image](https://github.com/user-attachments/assets/f3463468-488d-481e-8af9-2512555a220e)
 
 ## Result
 Thus Execution of Network commands Performed 
